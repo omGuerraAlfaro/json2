@@ -1,0 +1,22 @@
+{
+    "alumnos": [
+      {
+        "id": 1,
+        "nombre": "JAVIERA PAZ BECERRA DIAZ",
+        "username": "ja.becerrad",
+        "password": "123456"      
+      },
+      {
+        "id": 2,
+        "nombre": "NELLY BECERRA GAMIETEA",
+        "username": "ne.becerra",
+        "password": "123456"     
+      },
+      {
+        "id": 3,
+        "nombre": "MATIAS ISMAEL BERMUDEZ OLMOS",
+        "username": "ma.bermudez",
+        "password": "123456"     
+      }      
+    ]
+  }
