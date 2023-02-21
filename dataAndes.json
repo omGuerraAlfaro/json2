@@ -1730,6 +1730,237 @@
                     "curso": "4° Básico B"
                 }
             ]
+        },
+        {
+            "id": 106,
+            "rut": "14660856-6",
+            "nombre": "MAGALI ALVAREZ SAEZ",
+            "username": "ma.alvarez",
+            "password": "123456",
+            "estudiantes": [
+                {
+                    "id_estudiante": 1,
+                    "nom_estudiante": "LUCAS OJEDA ALVAREZ",
+                    "rut_estudiante": "24547933-6",
+                    "curso": "4° Básico B"
+                }
+            ]
+        },
+        {
+            "id": 107,
+            "rut": "13979127-4",
+            "nombre": "MAGDALENA ZAMORA GODOY",
+            "username": "ma.zamora",
+            "password": "123456",
+            "estudiantes": [
+                {
+                    "id_estudiante": 1,
+                    "nom_estudiante": "MARIO SARAVIA ZAMORA",
+                    "rut_estudiante": "24538982-5",
+                    "curso": "4° Básico B"
+                }
+            ]
+        },
+        {
+            "id": 108,
+            "rut": "13431509-1",
+            "nombre": "MANUEL TORRES CASTILLO",
+            "username": "ma.torres",
+            "password": "123456",
+            "estudiantes": [
+                {
+                    "id_estudiante": 1,
+                    "nom_estudiante": "ALONSO TORRES MAUREIRA",
+                    "rut_estudiante": "24343631-1",
+                    "curso": "4° Básico B"
+                }
+            ]
+        },
+        {
+            "id": 109,
+            "rut": "18680238-1",
+            "nombre": "FRANCIA AVILA CORTEZ",
+            "username": "fr.avila",
+            "password": "123456",
+            "estudiantes": [
+                {
+                    "id_estudiante": 1,
+                    "nom_estudiante": "FERNANDO VIDELA AVILA",
+                    "rut_estudiante": "24546743-5",
+                    "curso": "4° Básico B"
+                },
+                {
+                    "id_estudiante": 2,
+                    "nom_estudiante": "FRANCISCO VIDELA AVILA",
+                    "rut_estudiante": "24546712-5",
+                    "curso": "4° Básico B"
+                }
+            ]
+        },
+        {
+            "id": 110,
+            "rut": "16333511-5",
+            "nombre": "CAROLINA AMAR LOPEZ",
+            "username": "ca.amar",
+            "password": "123456",
+            "estudiantes": [
+                {
+                    "id_estudiante": 1,
+                    "nom_estudiante": "JULIETA VILLARROEL AMAR",
+                    "rut_estudiante": "24314592-9",
+                    "curso": "4° Básico B"
+                }
+            ]
+        },
+        {
+            "id": 111,
+            "rut": "13982660-4",
+            "nombre": "JAIME ANDRADE BUGUEÑO",
+            "username": "ja.andrade",
+            "password": "123456",
+            "estudiantes": [
+                {
+                    "id_estudiante": 1,
+                    "nom_estudiante": "JAIME ANDRADE OJEDA",
+                    "rut_estudiante": "24195432-3",
+                    "curso": "5° Básico A"
+                }
+            ]
+        },
+        {
+            "id": 112,
+            "rut": "16851971-0",
+            "nombre": "ROMINA REYES OCHOA",
+            "username": "ro.reyes",
+            "password": "123456",
+            "estudiantes": [
+                {
+                    "id_estudiante": 1,
+                    "nom_estudiante": "MARCEL ARIAS REYES",
+                    "rut_estudiante": "24118910-4",
+                    "curso": "5° Básico A"
+                }
+            ]
+        },
+        {
+            "id": 113,
+            "rut": "15061194-6",
+            "nombre": "CAROLINA RIVERA CHAVARRIA",
+            "username": "ca.rivera",
+            "password": "123456",
+            "estudiantes": [
+                {
+                    "id_estudiante": 1,
+                    "nom_estudiante": "RENATO BEIZA RIVERA",
+                    "rut_estudiante": "24020355-3",
+                    "curso": "5° Básico A"
+                }
+            ]
+        },
+        {
+            "id": 114,
+            "rut": "13827890-5",
+            "nombre": "EVELYN ASTORGA VIGUERA",
+            "username": "ev.astorga",
+            "password": "123456",
+            "estudiantes": [
+                {
+                    "id_estudiante": 1,
+                    "nom_estudiante": "DIEGO CARRASCO ASTORGA",
+                    "rut_estudiante": "23956292-2",
+                    "curso": "5° Básico A"
+                }
+            ]
+        },
+        {
+            "id": 115,
+            "rut": "16551076-3",
+            "nombre": "ROMINA OSORIO GALDAMEZ",
+            "username": "ro.osorio",
+            "password": "123456",
+            "estudiantes": [
+                {
+                    "id_estudiante": 1,
+                    "nom_estudiante": "ISIDORA CARVAJAL OSORIO",
+                    "rut_estudiante": "24214310-8",
+                    "curso": "5° Básico A"
+                }
+            ]
+        },
+        {
+            "id": 116,
+            "rut": "17977980-3",
+            "nombre": "DIEGO CONTRERAS BRIONES",
+            "username": "di.contreras",
+            "password": "123456",
+            "estudiantes": [
+                {
+                    "id_estudiante": 1,
+                    "nom_estudiante": "ALONSO CONTRERAS ESPINOZA",
+                    "rut_estudiante": "24213621-7",
+                    "curso": "5° Básico A"
+                }
+            ]
+        },
+        {
+            "id": 117,
+            "rut": "?????????????????",
+            "nombre": "?????????????????",
+            "username": "??.?????????",
+            "password": "123456",
+            "estudiantes": [
+                {
+                    "id_estudiante": 1,
+                    "nom_estudiante": "FERNANDA CUEVAS ORTIZ",
+                    "rut_estudiante": "XXXXXXXX-X",
+                    "curso": "5° Básico A"
+                }
+            ]
+        },
+        {
+            "id": 118,
+            "rut": "17818176-9",
+            "nombre": "SANDRA DEL VILLAR PEREZ",
+            "username": "sa.delvillar",
+            "password": "123456",
+            "estudiantes": [
+                {
+                    "id_estudiante": 1,
+                    "nom_estudiante": "ALONSO GODOY DEL VILLAR",
+                    "rut_estudiante": "24200595-3",
+                    "curso": "5° Básico A"
+                }
+            ]
+        },
+        {
+            "id": 119,
+            "rut": "18113868-8",
+            "nombre": "FANNY LEMUS CASTILLO",
+            "username": "fa.lemus",
+            "password": "123456",
+            "estudiantes": [
+                {
+                    "id_estudiante": 1,
+                    "nom_estudiante": "VICTORIA GONZALES LEMUS",
+                    "rut_estudiante": "24068965-0",
+                    "curso": "5° Básico A"
+                }
+            ]
+        },
+        {
+            "id": 120,
+            "rut": "17972300-K",
+            "nombre": "KARIN MUÑOZ TEJO",
+            "username": "ka.muñoz",
+            "password": "123456",
+            "estudiantes": [
+                {
+                    "id_estudiante": 1,
+                    "nom_estudiante": "DANTE GONZALES MUÑOZ",
+                    "rut_estudiante": "24172422-0",
+                    "curso": "5° Básico A"
+                }
+            ]
         }
     ]
 }
