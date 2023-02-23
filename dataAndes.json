@@ -397,7 +397,7 @@
                 {
                     "id_estudiante": 2,
                     "nom_estudiante": "RENATO VILLARROEL VICENCIO",
-                    "rut_estudiante": "24311256-7",
+                    "rut_estudiante": "23715056-K",
                     "curso": "6° Básico B"
                 }
             ]
@@ -1846,7 +1846,7 @@
             "id": 113,
             "rut": "15061194-6",
             "nombre": "CAROLINA RIVERA CHAVARRIA",
-            "username": "ca.rivera",
+            "username": "caro.rivera",
             "password": "123456",
             "estudiantes": [
                 {
@@ -1949,7 +1949,7 @@
         },
         {
             "id": 120,
-            "rut": "17972300-K",
+            "rut": "17033237-7",
             "nombre": "KARIN MUÑOZ TEJO",
             "username": "ka.muñoz",
             "password": "123456",
@@ -1959,6 +1959,858 @@
                     "nom_estudiante": "DANTE GONZALES MUÑOZ",
                     "rut_estudiante": "24172422-0",
                     "curso": "5° Básico A"
+                }
+            ]
+        },
+        {
+            "id": 121,
+            "rut": "17972300-K",
+            "nombre": "KAREN LECAROS POBLETE",
+            "username": "ka.lecaros",
+            "password": "123456",
+            "estudiantes": [
+                {
+                    "id_estudiante": 1,
+                    "nom_estudiante": "DUVAN HERRERA LECAROS",
+                    "rut_estudiante": "24096672-7",
+                    "curso": "5° Básico A"
+                }
+            ]
+        },
+        {
+            "id": 122,
+            "rut": "17164267-1",
+            "nombre": "MARIA VERGARA ARIAS",
+            "username": "ma.vergara",
+            "password": "123456",
+            "estudiantes": [
+                {
+                    "id_estudiante": 1,
+                    "nom_estudiante": "BENJAMIN AROSTICA VERGARA",
+                    "rut_estudiante": "XXXXXXXX-X",
+                    "curso": "5° Básico A"
+                }
+            ]
+        },
+        {
+            "id": 123,
+            "rut": "16381171-5",
+            "nombre": "CARLA ARELLANA CORDERO",
+            "username": "ca.arellana",
+            "password": "123456",
+            "estudiantes": [
+                {
+                    "id_estudiante": 1,
+                    "nom_estudiante": "JULIAN RIVERA ORELLANA",
+                    "rut_estudiante": "24268005-7",
+                    "curso": "5° Básico A"
+                },
+                {
+                    "id_estudiante": 2,
+                    "nom_estudiante": "FERNANDO RIVERA ORELLANA",
+                    "rut_estudiante": "23761995-1",
+                    "curso": "6° Básico B"
+                }
+            ]
+        },
+        {
+            "id": 124,
+            "rut": "16917531-4",
+            "nombre": "CAMILA RIVERA UGARTE",
+            "username": "ca.rivera",
+            "password": "123456",
+            "estudiantes": [
+                {
+                    "id_estudiante": 1,
+                    "nom_estudiante": "AGUSTIN RODRIGUEZ RIVERA",
+                    "rut_estudiante": "24064141-0",
+                    "curso": "5° Básico A"
+                }
+            ]
+        },
+        {
+            "id": 124,
+            "rut": "13539044-5",
+            "nombre": "ROMINA HERRERA SANCHEZ",
+            "username": "ro.herrera",
+            "password": "123456",
+            "estudiantes": [
+                {
+                    "id_estudiante": 1,
+                    "nom_estudiante": "ANTONIA VERGARA HERRERA",
+                    "rut_estudiante": "23957615-K",
+                    "curso": "5° Básico A"
+                }
+            ]
+        },
+        {
+            "id": 125,
+            "rut": "13363118-6",
+            "nombre": "PATRICIA TORRES CARO",
+            "username": "pa.torres",
+            "password": "123456",
+            "estudiantes": [
+                {
+                    "id_estudiante": 1,
+                    "nom_estudiante": "MAXIMILIANO BIADAYOLI TORRES",
+                    "rut_estudiante": "23830250-1",
+                    "curso": "6° Básico A"
+                }
+            ]
+        },
+        {
+            "id": 126,
+            "rut": "9468885-K",
+            "nombre": "WALDO BRUNA VEGA",
+            "username": "wa.bruna",
+            "password": "123456",
+            "estudiantes": [
+                {
+                    "id_estudiante": 1,
+                    "nom_estudiante": "BENJAMIN BRUNA ROJAS",
+                    "rut_estudiante": "23980982-0",
+                    "curso": "6° Básico A"
+                }
+            ]
+        },
+        {
+            "id": 127,
+            "rut": "17469653-5",
+            "nombre": "TERESITA URIBE AYALA",
+            "username": "te.uribe",
+            "password": "123456",
+            "estudiantes": [
+                {
+                    "id_estudiante": 1,
+                    "nom_estudiante": "IGNACIO ESPINOZA URIBE",
+                    "rut_estudiante": "23651781-0",
+                    "curso": "6° Básico A"
+                }
+            ]
+        },
+        {
+            "id": 128,
+            "rut": "16816334-7",
+            "nombre": "SARA ORTIZ VILLALOBOS",
+            "username": "sa.ortiz",
+            "password": "123456",
+            "estudiantes": [
+                {
+                    "id_estudiante": 1,
+                    "nom_estudiante": "DANIEL FERNANDEZ ORTIZ",
+                    "rut_estudiante": "23788917-7",
+                    "curso": "6° Básico A"
+                }
+            ]
+        },
+        {
+            "id": 129,
+            "rut": "16027158-2",
+            "nombre": "PEDRO HERNIQUEZ TORREALBA",
+            "username": "pe.henriquez",
+            "password": "123456",
+            "estudiantes": [
+                {
+                    "id_estudiante": 1,
+                    "nom_estudiante": "FEDERICO HENRIQUEZ REINOSO",
+                    "rut_estudiante": "23870182-1",
+                    "curso": "6° Básico A"
+                }
+            ]
+        },
+        {
+            "id": 130,
+            "rut": "10672500-4",
+            "nombre": "GLORIA HUERTA OYANEDEL",
+            "username": "glo.huerta",
+            "password": "123456",
+            "estudiantes": [
+                {
+                    "id_estudiante": 1,
+                    "nom_estudiante": "BENJAMIN HERRERA HUERTA",
+                    "rut_estudiante": "23430332-5",
+                    "curso": "6° Básico A"
+                }
+            ]
+        },
+        {
+            "id": 131,
+            "rut": "15554849-5",
+            "nombre": "ESTHER TAPIA CARVACHO",
+            "username": "es.tapia",
+            "password": "123456",
+            "estudiantes": [
+                {
+                    "id_estudiante": 1,
+                    "nom_estudiante": "PIA LUENGO TAPIA",
+                    "rut_estudiante": "23956724-K",
+                    "curso": "6° Básico A"
+                },
+                {
+                    "id_estudiante": 2,
+                    "nom_estudiante": "JAVIERA LUENGO TAPIA",
+                    "rut_estudiante": "23337141-6",
+                    "curso": "6° Básico A"
+                }
+            ]
+        },
+        {
+            "id": 132,
+            "rut": "12718566-2",
+            "nombre": "MARCELA LOPEZ ALFARO",
+            "username": "ma.lopez",
+            "password": "123456",
+            "estudiantes": [
+                {
+                    "id_estudiante": 1,
+                    "nom_estudiante": "AGUSTIN MIQUEL LOPEZ",
+                    "rut_estudiante": "23848396-4",
+                    "curso": "6° Básico A"
+                }
+            ]
+        },
+        {
+            "id": 133,
+            "rut": "14304805-5",
+            "nombre": "YOHANA VERGARA SALINAS",
+            "username": "yo.vergara",
+            "password": "123456",
+            "estudiantes": [
+                {
+                    "id_estudiante": 1,
+                    "nom_estudiante": "ISIDORA RIVAS VERGARA",
+                    "rut_estudiante": "23926867-6",
+                    "curso": "6° Básico A"
+                },
+                {
+                    "id_estudiante": 2,
+                    "nom_estudiante": "JAVIER RIVAS VERGARA",
+                    "rut_estudiante": "23360275-2",
+                    "curso": "7° Básico A"
+                }
+            ]
+        },
+        {
+            "id": 134,
+            "rut": "18113874-2",
+            "nombre": "ABIGAIL DELGADO JARA",
+            "username": "ab.delgado",
+            "password": "123456",
+            "estudiantes": [
+                {
+                    "id_estudiante": 1,
+                    "nom_estudiante": "TOMAS SALINAS DELGADO",
+                    "rut_estudiante": "23848193-7",
+                    "curso": "6° Básico A"
+                }
+            ]
+        },
+        {
+            "id": 135,
+            "rut": "14034617-9",
+            "nombre": "LUIS SEPULVEDA BIZAMA",
+            "username": "lu.sepulveda",
+            "password": "123456",
+            "estudiantes": [
+                {
+                    "id_estudiante": 1,
+                    "nom_estudiante": "AGUSTIN SEPULVEDA CONTRERAS",
+                    "rut_estudiante": "XXXXXXXX-X",
+                    "curso": "6° Básico A"
+                }
+            ]
+        },
+        {
+            "id": 136,
+            "rut": "12950432-3",
+            "nombre": "BLANCA PIZARRO MALDONADO",
+            "username": "bl.pizarro",
+            "password": "123456",
+            "estudiantes": [
+                {
+                    "id_estudiante": 1,
+                    "nom_estudiante": "BORIS SEPULVEDA PIZARRO",
+                    "rut_estudiante": "23732419-6",
+                    "curso": "6° Básico A"
+                }
+            ]
+        },
+        {
+            "id": 137,
+            "rut": "15818299-8",
+            "nombre": "CLAUDIA TORO ESCOBAR",
+            "username": "cl.toro",
+            "password": "123456",
+            "estudiantes": [
+                {
+                    "id_estudiante": 1,
+                    "nom_estudiante": "VICENTE SILVA TORO",
+                    "rut_estudiante": "23733510-4",
+                    "curso": "6° Básico A"
+                }
+            ]
+        },
+        {
+            "id": 138,
+            "rut": "12018447-4",
+            "nombre": "PAMELA SALINAS CORDOVA",
+            "username": "pa.salinas",
+            "password": "123456",
+            "estudiantes": [
+                {
+                    "id_estudiante": 1,
+                    "nom_estudiante": "JOAQUIN VIVANCO SALINAS",
+                    "rut_estudiante": "23802443-9",
+                    "curso": "6° Básico A"
+                }
+            ]
+        },
+        {
+            "id": 139,
+            "rut": "9291698-7",
+            "nombre": "CLAUDIO ASTARGO TORO",
+            "username": "cl.astargo",
+            "password": "123456",
+            "estudiantes": [
+                {
+                    "id_estudiante": 1,
+                    "nom_estudiante": "CLAUDIO ASTARGO CERDA",
+                    "rut_estudiante": "23813264-9",
+                    "curso": "6° Básico B"
+                }
+            ]
+        },
+        {
+            "id": 140,
+            "rut": "10034474-2",
+            "nombre": "JUDITH ESPINDOLA CARVAJAL",
+            "username": "ju.espindola",
+            "password": "123456",
+            "estudiantes": [
+                {
+                    "id_estudiante": 1,
+                    "nom_estudiante": "LAURA BORQUEZ ESPINDOLA",
+                    "rut_estudiante": "24102413-K",
+                    "curso": "6° Básico B"
+                }
+            ]
+        },
+        {
+            "id": 141,
+            "rut": "18217988-4",
+            "nombre": "MAGDALENA RIVERA BAHAMONDES",
+            "username": "ma.rivera",
+            "password": "123456",
+            "estudiantes": [
+                {
+                    "id_estudiante": 1,
+                    "nom_estudiante": "MAITE CORVALAN RIVERA",
+                    "rut_estudiante": "23940242-9",
+                    "curso": "6° Básico B"
+                }
+            ]
+        },
+        {
+            "id": 142,
+            "rut": "15960569-8",
+            "nombre": "JOHANNA DONOSO BRUNA",
+            "username": "jo.donoso",
+            "password": "123456",
+            "estudiantes": [
+                {
+                    "id_estudiante": 1,
+                    "nom_estudiante": "VALENTINA GALVEZ DONOSO",
+                    "rut_estudiante": "23827830-9",
+                    "curso": "6° Básico B"
+                }
+            ]
+        },
+        {
+            "id": 143,
+            "rut": "17950042-6",
+            "nombre": "LAURA PIZARRO GAJARDO",
+            "username": "la.pizarro",
+            "password": "123456",
+            "estudiantes": [
+                {
+                    "id_estudiante": 1,
+                    "nom_estudiante": "ETHAN GONZALES PIZARRO",
+                    "rut_estudiante": "23781243-3",
+                    "curso": "6° Básico B"
+                }
+            ]
+        },
+        {
+            "id": 144,
+            "rut": "11730326-8",
+            "nombre": "MARIA CASTRO ASTUDILLO",
+            "username": "ma.castro",
+            "password": "123456",
+            "estudiantes": [
+                {
+                    "id_estudiante": 1,
+                    "nom_estudiante": "RAFAELA LEIVA CASTRO",
+                    "rut_estudiante": "23855346-6",
+                    "curso": "6° Básico B"
+                }
+            ]
+        },
+        {
+            "id": 145,
+            "rut": "12632148-1",
+            "nombre": "HERNAN MEZA TORO",
+            "username": "he.meza",
+            "password": "123456",
+            "estudiantes": [
+                {
+                    "id_estudiante": 1,
+                    "nom_estudiante": "MATEO MEZA VARAS",
+                    "rut_estudiante": "23703701-4",
+                    "curso": "6° Básico B"
+                }
+            ]
+        },
+        {
+            "id": 146,
+            "rut": "15060808-2",
+            "nombre": "DAVID OLIVARES HERRERA",
+            "username": "da.olivares",
+            "password": "123456",
+            "estudiantes": [
+                {
+                    "id_estudiante": 1,
+                    "nom_estudiante": "SEBASTIAN OLIVARES VILLANUEVA",
+                    "rut_estudiante": "23748965-9",
+                    "curso": "6° Básico B"
+                }
+            ]
+        },
+        {
+            "id": 147,
+            "rut": "14348405-k",
+            "nombre": "SHIRLEY VILLALOBOS",
+            "username": "sh.villalobos",
+            "password": "123456",
+            "estudiantes": [
+                {
+                    "id_estudiante": 1,
+                    "nom_estudiante": "VICENTE PIZARRO VILLALOBOS",
+                    "rut_estudiante": "23495456-3",
+                    "curso": "6° Básico B"
+                }
+            ]
+        },
+        {
+            "id": 148,
+            "rut": "17163629-9",
+            "nombre": "DANIELA JORQUERA FIGUEROA",
+            "username": "da.jorquera",
+            "password": "123456",
+            "estudiantes": [
+                {
+                    "id_estudiante": 1,
+                    "nom_estudiante": "JOSEFA PORTA JORQUERA",
+                    "rut_estudiante": "23857215-0",
+                    "curso": "6° Básico B"
+                }
+            ]
+        },
+        {
+            "id": 149,
+            "rut": "13981971-3",
+            "nombre": "VIOLETA VERA RIFFO",
+            "username": "vi.vera",
+            "password": "123456",
+            "estudiantes": [
+                {
+                    "id_estudiante": 1,
+                    "nom_estudiante": "MARTINA QUEZADA VERA",
+                    "rut_estudiante": "23896988-3",
+                    "curso": "6° Básico B"
+                }
+            ]
+        },
+        {
+            "id": 150,
+            "rut": "15555402-9",
+            "nombre": "VIRGINIA MARTINEZ DIAZ",
+            "username": "vi.martinez",
+            "password": "123456",
+            "estudiantes": [
+                {
+                    "id_estudiante": 1,
+                    "nom_estudiante": "ALEX SANCHEZ MARTINES",
+                    "rut_estudiante": "23946665-6",
+                    "curso": "6° Básico B"
+                }
+            ]
+        },
+        {
+            "id": 151,
+            "rut": "17514237-1",
+            "nombre": "VICTORIA DOMINGO IBACETA",
+            "username": "vi.domingo",
+            "password": "123456",
+            "estudiantes": [
+                {
+                    "id_estudiante": 1,
+                    "nom_estudiante": "PABLO VIDELA DOMINGO",
+                    "rut_estudiante": "23825070-6",
+                    "curso": "6° Básico B"
+                }
+            ]
+        },
+        {
+            "id": 152,
+            "rut": "7485564-4",
+            "nombre": "JUAN VIDELA VILLARROEL",
+            "username": "ju.videla",
+            "password": "123456",
+            "estudiantes": [
+                {
+                    "id_estudiante": 1,
+                    "nom_estudiante": "MAXIMILIANO VIDELA OLIVARES",
+                    "rut_estudiante": "23512838-1",
+                    "curso": "6° Básico B"
+                }
+            ]
+        },
+        {
+            "id": 153,
+            "rut": "11517500-9",
+            "nombre": "ADRIANA BUSTOS CASANOVA",
+            "username": "ad.bustos",
+            "password": "123456",
+            "estudiantes": [
+                {
+                    "id_estudiante": 1,
+                    "nom_estudiante": "RENATA AGUILERA BUSTOS",
+                    "rut_estudiante": "22982110-5",
+                    "curso": "7° Básico A"
+                }
+            ]
+        },
+        {
+            "id": 154,
+            "rut": "15335663-7",
+            "nombre": "CRISTIAN ARAYA CANEO",
+            "username": "cr.araya",
+            "password": "123456",
+            "estudiantes": [
+                {
+                    "id_estudiante": 1,
+                    "nom_estudiante": "CATALINA ARAYA DONOSO",
+                    "rut_estudiante": "XXXXXXXX-X",
+                    "curso": "7° Básico A"
+                }
+            ]
+        },
+        {
+            "id": 154,
+            "rut": "14165873-5",
+            "nombre": "MARLEN ESTRADA NUÑEZ",
+            "username": "ma.estrada",
+            "password": "123456",
+            "estudiantes": [
+                {
+                    "id_estudiante": 1,
+                    "nom_estudiante": "JULIAN ASCUI ESTRADA",
+                    "rut_estudiante": "23351534-5",
+                    "curso": "7° Básico A"
+                }
+            ]
+        },
+        {
+            "id": 155,
+            "rut": "15554643-3",
+            "nombre": "ANA FIGUEROA SALINAS",
+            "username": "an.figueroa",
+            "password": "123456",
+            "estudiantes": [
+                {
+                    "id_estudiante": 1,
+                    "nom_estudiante": "PATRICIO ASTARGO FIGUEROA",
+                    "rut_estudiante": "XXXXXXXX-X",
+                    "curso": "7° Básico A"
+                }
+            ]
+        },
+        {
+            "id": 156,
+            "rut": "15698050-1",
+            "nombre": "YOHANA MOYA CISTERNA",
+            "username": "yo.moya",
+            "password": "123456",
+            "estudiantes": [
+                {
+                    "id_estudiante": 1,
+                    "nom_estudiante": "EMILY BEIZA MOYA",
+                    "rut_estudiante": "23604761-K",
+                    "curso": "7° Básico A"
+                }
+            ]
+        },
+        {
+            "id": 157,
+            "rut": "13485156-2",
+            "nombre": "LORENA AGUILA TORO",
+            "username": "lo.aguila",
+            "password": "123456",
+            "estudiantes": [
+                {
+                    "id_estudiante": 1,
+                    "nom_estudiante": "RAFAELA CRUZ AGUILA",
+                    "rut_estudiante": "23578782-2",
+                    "curso": "7° Básico A"
+                }
+            ]
+        },
+        {
+            "id": 158,
+            "rut": "13021284-0",
+            "nombre": "KATHERINE FERNANDOIS ACUM",
+            "username": "ka.fernandois",
+            "password": "123456",
+            "estudiantes": [
+                {
+                    "id_estudiante": 1,
+                    "nom_estudiante": "FLORENCIA IBARRA FERNANDOIS",
+                    "rut_estudiante": "23473788-0",
+                    "curso": "7° Básico A"
+                }
+            ]
+        },
+        {
+            "id": 159,
+            "rut": "13225494-K",
+            "nombre": "OSCAR LEIVA CARDENAS",
+            "username": "os.leiva",
+            "password": "123456",
+            "estudiantes": [
+                {
+                    "id_estudiante": 1,
+                    "nom_estudiante": "AGUSTIN LEIVA CORTEZ",
+                    "rut_estudiante": "23223096-7",
+                    "curso": "7° Básico A"
+                },
+                {
+                    "id_estudiante": 2,
+                    "nom_estudiante": "RAFAELA LEIVA CORTEZ",
+                    "rut_estudiante": "23861195-4",
+                    "curso": "5° Básico A"
+                }
+            ]
+        },
+        {
+            "id": 160,
+            "rut": "10655198-7",
+            "nombre": "CARLOS LEIVA MADARIAGA",
+            "username": "ca.leiva",
+            "password": "123456",
+            "estudiantes": [
+                {
+                    "id_estudiante": 1,
+                    "nom_estudiante": "JOAQUIN LEIVA RAMIREZ",
+                    "rut_estudiante": "XXXXXXXX-X",
+                    "curso": "7° Básico A"
+                }
+            ]
+        },
+        {
+            "id": 161,
+            "rut": "12950292-4",
+            "nombre": "NANCY RAMIREZ AHUMADA",
+            "username": "na.ramirez",
+            "password": "123456",
+            "estudiantes": [
+                {
+                    "id_estudiante": 1,
+                    "nom_estudiante": "MATEO NIETO RAMIREZ",
+                    "rut_estudiante": "23581693-8",
+                    "curso": "7° Básico A"
+                }
+            ]
+        },
+        {
+            "id": 162,
+            "rut": "16928798-8",
+            "nombre": "MIRIAM VALDIVIA JIMENEZ",
+            "username": "mi.valdivia",
+            "password": "123456",
+            "estudiantes": [
+                {
+                    "id_estudiante": 1,
+                    "nom_estudiante": "AMARO OLGUIN VALDIVIA",
+                    "rut_estudiante": "XXXXXXXX-X",
+                    "curso": "1° Básico A"
+                },
+                {
+                    "id_estudiante": 2,
+                    "nom_estudiante": "IGNACIO OLGUIN VALDIVIA",
+                    "rut_estudiante": "23517389-1",
+                    "curso": "7° Básico A"
+                }                
+            ]
+        },
+        {
+            "id": 163,
+            "rut": "13802007-k",
+            "nombre": "PAOLA CASTILLO",
+            "username": "pa.castillo",
+            "password": "123456",
+            "estudiantes": [
+                {
+                    "id_estudiante": 1,
+                    "nom_estudiante": "TAMARA ORELLANA ALMENDRAS",
+                    "rut_estudiante": "23520635-8",
+                    "curso": "7° Básico A"
+                }
+            ]
+        },
+        {
+            "id": 164,
+            "rut": "16852296-7",
+            "nombre": "CINDY CURA TAPIA",
+            "username": "ci.cura",
+            "password": "123456",
+            "estudiantes": [
+                {
+                    "id_estudiante": 1,
+                    "nom_estudiante": "FLORENCIA ORELLANA CURA",
+                    "rut_estudiante": "25047928-K",
+                    "curso": "2° Básico A"
+                },
+                {
+                    "id_estudiante": 2,
+                    "nom_estudiante": "FERNANDA ORELLANA CURA",
+                    "rut_estudiante": "23401251-7",
+                    "curso": "7° Básico A"
+                }
+            ]
+        },
+        {
+            "id": 165,
+            "rut": "13982148-3",
+            "nombre": "KAREN LIBERON MONTENEGRO",
+            "username": "ka.liberon",
+            "password": "123456",
+            "estudiantes": [
+                {
+                    "id_estudiante": 1,
+                    "nom_estudiante": "DIEGO OSANDON LIBERON",
+                    "rut_estudiante": "23570042-5",
+                    "curso": "7° Básico A"
+                }
+            ]
+        },
+        {
+            "id": 166,
+            "rut": "10012944-2",
+            "nombre": "VIVIAN CASTRO RAMOS",
+            "username": "vi.castro",
+            "password": "123456",
+            "estudiantes": [
+                {
+                    "id_estudiante": 1,
+                    "nom_estudiante": "SEBASTIAN PEREZ CASTRO",
+                    "rut_estudiante": "23581521-4",
+                    "curso": "7° Básico A"
+                }
+            ]
+        },
+        {
+            "id": 167,
+            "rut": "13981497-5",
+            "nombre": "CAROLINA CESPED GACITUA",
+            "username": "ca.cesped",
+            "password": "123456",
+            "estudiantes": [
+                {
+                    "id_estudiante": 1,
+                    "nom_estudiante": "MONSERRAT SILVA CESPED",
+                    "rut_estudiante": "23317255-3",
+                    "curso": "7° Básico A"
+                }
+            ]
+        },
+        {
+            "id": 168,
+            "rut": "13265453-0",
+            "nombre": "DAVID VALENCIA ARANEDA",
+            "username": "da.valencia",
+            "password": "123456",
+            "estudiantes": [
+                {
+                    "id_estudiante": 1,
+                    "nom_estudiante": "CRISTOBAL VALENCIA BERMUDEZ",
+                    "rut_estudiante": "XXXXXXXX-X",
+                    "curso": "7° Básico A"
+                },
+                {
+                    "id_estudiante": 1,
+                    "nom_estudiante": "PALOMA VALENCIA BERMUDEZ",
+                    "rut_estudiante": "XXXXXXXX-X",
+                    "curso": "7° Básico B"
+                }
+            ]
+        },
+        {
+            "id": 169,
+            "rut": "10073977-1",
+            "nombre": "GUILLERMO VASQUEZ PASTRAN",
+            "username": "gu.vasquez",
+            "password": "123456",
+            "estudiantes": [
+                {
+                    "id_estudiante": 1,
+                    "nom_estudiante": "CLEMENTE VASQUEZ VILLASECA",
+                    "rut_estudiante": "22786975-5",
+                    "curso": "7° Básico A"
+                }
+            ]
+        },
+        {
+            "id": 170,
+            "rut": "17971912-6",
+            "nombre": "CAMILA PACHECO OSSES",
+            "username": "ca.pacheco",
+            "password": "123456",
+            "estudiantes": [
+                {
+                    "id_estudiante": 1,
+                    "nom_estudiante": "ANTONELLA CELIS PACHECO",
+                    "rut_estudiante": "XXXXXXXX-X",
+                    "curso": "7° Básico B"
+                }
+            ]
+        },
+        {
+            "id": 171,
+            "rut": "13183604-K",
+            "nombre": "NADIA JIMENEZ ALVAREZ",
+            "username": "na.jimenez",
+            "password": "123456",
+            "estudiantes": [
+                {
+                    "id_estudiante": 1,
+                    "nom_estudiante": "EMILIO CORNEJO JIMENEZ",
+                    "rut_estudiante": "23390919-K",
+                    "curso": "7° Básico B"
+                }
+            ]
+        },
+        {
+            "id": 172,
+            "rut": "15555082-1",
+            "nombre": "MAURICIO GONZALEZ CABALLERIA",
+            "username": "ma.gonzalez",
+            "password": "123456",
+            "estudiantes": [
+                {
+                    "id_estudiante": 1,
+                    "nom_estudiante": "FRANCO GONZALES HENRIQUEZ",
+                    "rut_estudiante": "23405191-1",
+                    "curso": "7° Básico B"
                 }
             ]
         }
