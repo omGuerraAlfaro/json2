@@ -1138,7 +1138,7 @@
                 {
                     "id_estudiante": 2,
                     "nom_estudiante": "JOSEFINA PIZARRO NUÑEZ",
-                    "rut_estudiante": "24026949-4",
+                    "rut_estudiante": "24025949-4",
                     "curso": "5° Básico A"
                 }
             ]
@@ -1992,7 +1992,7 @@
             "estudiantes": [
                 {
                     "id_estudiante": 1,
-                    "nom_estudiante": "BENJAMIN AROSTICA VERGARA",
+                    "nom_estudiante": "BENJAMIN OROSTICA VERGARA",
                     "rut_estudiante": "XXXXXXXX-X",
                     "curso": "5° Básico A"
                 }
