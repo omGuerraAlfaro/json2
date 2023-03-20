@@ -1,6 +1,4 @@
 {
-    "cod_activo": 1000000,
-    "nombre_cod_activo": "Activo",
     "activo": [
         {
             "cod": 1100000,
@@ -115,32 +113,6 @@
                     ]
                 }
             ]
-        }
-    ],
-    "cod_pasivo": 20000000,
-    "nombre_cod_pasivo": "pasivo",
-    "pasivo": [
-        {
-            "cod_pasivo": 200001,
-            "nombre_cod": "Pasivo"
-        }
-    ],
-    "patrimonio": [
-        {
-            "cod_patrimonio": 300000,
-            "nombre_cod": "Patrimonios"
-        }
-    ],
-    "ingreso": [
-        {
-            "cod_activo_circulante": 40000000,
-            "nombre_cod": "Ingresos"
-        }
-    ],
-    "egreso": [
-        {
-            "cod_activo_circulante": 50000,
-            "nombre_cod": "Egresos"
         }
     ]
 }
