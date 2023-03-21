@@ -6,7 +6,7 @@
             {
                 "cod": 1100000,
                 "nombre_cod": "Activo Circulante",
-                "activo_circulante": [
+                "index_sub": [
                     {
                         "cod": 1101000,
                         "nombre_cod": "Caja y Fondo Fijo",
