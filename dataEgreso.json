@@ -308,6 +308,104 @@
                                 "nombre_cod": "Otros Gastos de Servicios Generales"
                             }
                         ]
+                    },
+                    {
+                        "cod": 5310000,
+                        "nombre_cod": "Gastos Generales",
+                        "indicador": [
+                            {
+                                "cod": 5310002,
+                                "nombre_cod": "Insumo de Oficina"
+                            },
+                            {
+                                "cod": 5310003,
+                                "nombre_cod": "Mantencio de Aire Acondicionado"
+                            },
+                            {
+                                "cod": 5310010,
+                                "nombre_cod": "Viaticos"
+                            },
+                            {
+                                "cod": 5310011,
+                                "nombre_cod": "Gastos de Traslado"
+                            },
+                            {
+                                "cod": 5310999,
+                                "nombre_cod": "Gastos Generales"
+                            }
+                        ]
+                    },
+                    {
+                        "cod": 5314000,
+                        "nombre_cod": "Impuestos y Contribuciones",
+                        "indicador": [
+                            {
+                                "cod": 5314002,
+                                "nombre_cod": "Contribuciones"
+                            },
+                            {
+                                "cod": 5314003,
+                                "nombre_cod": "Patentes"
+                            },
+                            {
+                                "cod": 5315000,
+                                "nombre_cod": "Licencias"
+                            },
+                            {
+                                "cod": 5315001,
+                                "nombre_cod": "Licencias de Software"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "cod": 5400000,
+                "nombre_cod": "Gastos Fuera de la Explotación",
+                "index_sub": [
+                    {
+                        "cod": 5403000,
+                        "nombre_cod": "Gastos Financieros",
+                        "indicador": [
+                            {
+                                "cod": 5403001,
+                                "nombre_cod": "Intereses Financiero"
+                            },
+                            {
+                                "cod": 5403002,
+                                "nombre_cod": "Impuestos Financieros"
+                            },
+                            {
+                                "cod": 5403003,
+                                "nombre_cod": "Comisiones Financieras"
+                            }
+                        ]
+                    },
+                    {
+                        "cod": 5404000,
+                        "nombre_cod": "Otros Egresos Fuera de Explotación",
+                        "indicador": [
+                            {
+                                "cod": 5404002,
+                                "nombre_cod": "Donaciones"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "cod": 5700000,
+                "nombre_cod": "Impuestos",
+                "index_sub": [
+                    {
+                        "cod": 5700001,
+                        "nombre_cod": "Impuestos",
+                        "indicador": [
+                            {
+                                "cod": 5403001,
+                                "nombre_cod": "Impuesto a la Renta"
+                            }
+                        ]
                     }
                 ]
             }
