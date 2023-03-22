@@ -162,8 +162,8 @@
         "nombre_cod2": "Pasivo",
         "sub_categoria2": [
             {
-                "cod": 1100000,
-                "nombre_cod": "Activo Circulante",
+                "cod": 2100000,
+                "nombre_cod": "Activo Circulante2",
                 "index_sub": [
                     {
                         "cod": 1101000,
