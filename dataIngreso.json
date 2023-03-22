@@ -1,0 +1,66 @@
+{
+    "categoria": {
+        "cod": 4000000,
+        "nombre_cod": "Ingresos",
+        "sub_categoria": [
+            {
+                "cod": 4100000,
+                "nombre_cod": "Ingresos de Explotación",
+                "index_sub": [
+                    {
+                        "cod": 4101000,
+                        "nombre_cod": "Ingresos de Explotación",
+                        "indicador": [
+                            {
+                                "cod": 4101001,
+                                "nombre_cod": "Ventas del Giro"
+                            },
+                            {
+                                "cod": 4101002,
+                                "nombre_cod": "Ventas de Exportación"
+                            }
+                        ]
+                    },
+                    {
+                        "cod": 4102000,
+                        "nombre_cod": "Ingresos por Servicios",
+                        "indicador": [
+                            {
+                                "cod": 4102001,
+                                "nombre_cod": "Ingresos por Infraestructura"
+                            },
+                            {
+                                "cod": 4102002,
+                                "nombre_cod": "Ingresos por Desarrollo"
+                            },
+                            {
+                                "cod": 4102003,
+                                "nombre_cod": "Ingresos por Consultoria"
+                            },
+                            {
+                                "cod": 4102004,
+                                "nombre_cod": "Ingresos por Capacitación"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "cod": 4300000,
+                "nombre_cod": "Ingresos Fuera de la Explotación",
+                "index_sub": [
+                    {
+                        "cod": 4305000,
+                        "nombre_cod": "Otros Ingresos",
+                        "indicador": [
+                            {
+                                "cod": 4305999,
+                                "nombre_cod": "Otros Ingresos"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}
