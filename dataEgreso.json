@@ -268,43 +268,43 @@
                         "nombre_cod": "Gastos de Servicios Generales",
                         "indicador": [
                             {
-                                "cod": 5209002,
+                                "cod": 5309002,
                                 "nombre_cod": "Gastos de Transporte"
                             },
                             {
-                                "cod": 5209007,
+                                "cod": 5309007,
                                 "nombre_cod": "Gastos de Internet"
                             },
                             {
-                                "cod": 5209008,
+                                "cod": 5309008,
                                 "nombre_cod": "Telefonia Celular"
                             },
                             {
-                                "cod": 5209009,
+                                "cod": 5309009,
                                 "nombre_cod": "Telefonos"
                             },
                             {
-                                "cod": 5209011,
+                                "cod": 5309011,
                                 "nombre_cod": "Agua"
                             },
                             {
-                                "cod": 5209012,
+                                "cod": 5309012,
                                 "nombre_cod": "Electricidad"
                             },
                             {
-                                "cod": 5209016,
+                                "cod": 5309016,
                                 "nombre_cod": "Suscripciones y Membresias"
                             },
                             {
-                                "cod": 5209017,
+                                "cod": 5309017,
                                 "nombre_cod": "Arriendo / Compra de Sistemas"
                             },
                             {
-                                "cod": 5209019,
+                                "cod": 5309019,
                                 "nombre_cod": "Auditorias y Certificaciones"
                             },
                             {
-                                "cod": 5209999,
+                                "cod": 5309999,
                                 "nombre_cod": "Otros Gastos de Servicios Generales"
                             }
                         ]
