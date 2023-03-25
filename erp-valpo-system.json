@@ -159,7 +159,7 @@
             }
         ]
     },
-    "Pasivos": {
+    "pasivos": {
         "cod": 2000000,
         "nombre_cod": "Pasivo",
         "sub_categoria": [
@@ -273,7 +273,7 @@
             }
         ]
     },
-    "patrimonio": {
+    "patrimonios": {
         "cod": 3000000,
         "nombre_cod": "Patrimonio",
         "sub_categoria": [
