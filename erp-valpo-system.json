@@ -1,0 +1,788 @@
+{
+    "activos": {
+        "cod": 1000000,
+        "nombre_cod": "Activo",
+        "sub_categoria": [
+            {
+                "cod": 1100000,
+                "nombre_cod": "Activo Circulante",
+                "index_sub": [
+                    {
+                        "cod": 1101000,
+                        "nombre_cod": "Caja y Fondo Fijo",
+                        "indicador": [
+                            {
+                                "cod": 1101001,
+                                "nombre_cod": "Caja"
+                            },
+                            {
+                                "cod": 1101002,
+                                "nombre_cod": "Fondo Fijo"
+                            },
+                            {
+                                "cod": 1101003,
+                                "nombre_cod": "Fondo a Rendir"
+                            },
+                            {
+                                "cod": 1101004,
+                                "nombre_cod": "Divisas"
+                            }
+                        ]
+                    },
+                    {
+                        "cod": 1102000,
+                        "nombre_cod": "Cuenta Corriente",
+                        "indicador": [
+                            {
+                                "cod": 1102002,
+                                "nombre_cod": "Banco Santander"
+                            },
+                            {
+                                "cod": 1102003,
+                                "nombre_cod": "Banco Bci"
+                            },
+                            {
+                                "cod": 1102004,
+                                "nombre_cod": "Banco Scotiabank"
+                            }
+                        ]
+                    },
+                    {
+                        "cod": 1103000,
+                        "nombre_cod": "Cuenta Corriente USD",
+                        "indicador": [
+                            {
+                                "cod": 1103003,
+                                "nombre_cod": "Banco Bci USD"
+                            }
+                        ]
+                    },
+                    {
+                        "cod": 1107000,
+                        "nombre_cod": "Deudores por Venta(Neto)",
+                        "indicador": [
+                            {
+                                "cod": 1107001,
+                                "nombre_cod": "Facturas por Cobrar"
+                            },
+                            {
+                                "cod": 1107002,
+                                "nombre_cod": "Boletas por Cobrar"
+                            },
+                            {
+                                "cod": 1107003,
+                                "nombre_cod": "Cuentas por Cobrar"
+                            },
+                            {
+                                "cod": 1107004,
+                                "nombre_cod": "Tarjeta de Credito por Cobrar"
+                            },
+                            {
+                                "cod": 1107005,
+                                "nombre_cod": "Cartera Vencida de Clientes"
+                            },
+                            {
+                                "cod": 1107006,
+                                "nombre_cod": "Facturas de Exportación por Cobrar"
+                            }
+                        ]
+                    },
+                    {
+                        "cod": 1108000,
+                        "nombre_cod": "Documentos por Cobrar",
+                        "indicador": [
+                            {
+                                "cod": 1108005,
+                                "nombre_cod": "Documentos en Cobranza"
+                            }
+                        ]
+                    },
+                    {
+                        "cod": 1109000,
+                        "nombre_cod": "Deudores Varios",
+                        "indicador": [
+                            {
+                                "cod": 1109002,
+                                "nombre_cod": "Factoring por Liquidar"
+                            },
+                            {
+                                "cod": 1109003,
+                                "nombre_cod": "Anticipo de Proveedores"
+                            },
+                            {
+                                "cod": 1109004,
+                                "nombre_cod": "Anticipo de Honorarios"
+                            }
+                        ]
+                    },
+                    {
+                        "cod": 1112000,
+                        "nombre_cod": "Impuestos por Recuperar",
+                        "indicador": [
+                            {
+                                "cod": 1112001,
+                                "nombre_cod": "Iva Crédito Fiscal NO Afecta"
+                            },
+                            {
+                                "cod": 1112012,
+                                "nombre_cod": "Impuesto A La Renta Por Recuperar"
+                            },
+                            {
+                                "cod": 1112999,
+                                "nombre_cod": "Otros Impuestos Por Recuperar"
+                            }
+                        ]
+                    },
+                    {
+                        "cod": 1113000,
+                        "nombre_cod": "Gastos Pagados por Anticipado",
+                        "indicador": [
+                            {
+                                "cod": 1113001,
+                                "nombre_cod": "Arriendos Anticipados"
+                            },
+                            {
+                                "cod": 1113002,
+                                "nombre_cod": "Seguros Anticipados"
+                            },
+                            {
+                                "cod": 1113003,
+                                "nombre_cod": "Servicios Anticipados"
+                            },
+                            {
+                                "cod": 1113999,
+                                "nombre_cod": "Otros Gastos Anticipados"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Pasivos": {
+        "cod": 2000000,
+        "nombre_cod": "Pasivo",
+        "sub_categoria": [
+            {
+                "cod": 2100000,
+                "nombre_cod": "Pasivos Circulantes",
+                "index_sub": [
+                    {
+                        "cod": 2101000,
+                        "nombre_cod": "Linea de Credito con Banco",
+                        "indicador": [
+                            {
+                                "cod": 2101002,
+                                "nombre_cod": "LC Banco Santander Pasivo Exigible"
+                            },
+                            {
+                                "cod": 2101003,
+                                "nombre_cod": "LC Banco Bci Pasivo Exigible"
+                            }
+                        ]
+                    },
+                    {
+                        "cod": 2102000,
+                        "nombre_cod": "Prestamos con Bancos",
+                        "indicador": [
+                            {
+                                "cod": 2102001,
+                                "nombre_cod": "Prestamo con Banco Bci Pasivo Exigible"
+                            }
+                        ]
+                    },
+                    {
+                        "cod": 2104000,
+                        "nombre_cod": "Tarjeta de Credito con Bancos",
+                        "indicador": [
+                            {
+                                "cod": 2104001,
+                                "nombre_cod": "Tarjeta de Credito Banco 1"
+                            },
+                            {
+                                "cod": 2104002,
+                                "nombre_cod": "Tarjeta de Credito Banco 2"
+                            }
+                        ]
+                    },
+                    {
+                        "cod": 2110000,
+                        "nombre_cod": "Cuentas por Pagar",
+                        "indicador": [
+                            {
+                                "cod": 2110001,
+                                "nombre_cod": "Proveedores Nacionales Pasivo Exigible"
+                            },
+                            {
+                                "cod": 2110002,
+                                "nombre_cod": "Proveedores Extranjeros Pasivo Exigible"
+                            },
+                            {
+                                "cod": 2110003,
+                                "nombre_cod": "Cuentas por Pagar Pasivo Exigible"
+                            },
+                            {
+                                "cod": 2110999,
+                                "nombre_cod": "Otras Cuentas Por Pagar Pasivo Exigible"
+                            },
+                            {
+                                "cod": 2111000,
+                                "nombre_cod": "Documentos Por Pagar"
+                            }
+                        ]
+                    },
+                    {
+                        "cod": 2116000,
+                        "nombre_cod": "Impuestos por Pagar",
+                        "indicador": [
+                            {
+                                "cod": 2116001,
+                                "nombre_cod": "Iva Debito Fiscal Pasivo Exigible"
+                            },
+                            {
+                                "cod": 2116002,
+                                "nombre_cod": "Impuesto Ley de Alcoholes Pasivo Exigible"
+                            },
+                            {
+                                "cod": 2116003,
+                                "nombre_cod": "Iva Retenido a Terceros Pasivo Exigible"
+                            }
+                        ]
+                    },
+                    {
+                        "cod": 2117000,
+                        "nombre_cod": "Impuesto a la Renta",
+                        "indicador": [
+                            {
+                                "cod": 2117001,
+                                "nombre_cod": "Impuesto a la Renta Pasivo Exigible"
+                            }
+                        ]
+                    },
+                    {
+                        "cod": 2200000,
+                        "nombre_cod": "Pasivos a Largo Plazo",
+                        "indicador": [
+                            {
+                                "cod": 2201000,
+                                "nombre_cod": "Obligaciones con Bancos a Largo Plazo"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "patrimonio": {
+        "cod": 3000000,
+        "nombre_cod": "Patrimonio",
+        "sub_categoria": [
+            {
+                "cod": 3100000,
+                "nombre_cod": "Capital",
+                "index_sub": [
+                    {
+                        "cod": 3101000,
+                        "nombre_cod": "Capital Autorizado",
+                        "indicador": [
+                            {
+                                "cod": 3101001,
+                                "nombre_cod": "Capital Autorizado"
+                            }
+                        ]
+                    },
+                    {
+                        "cod": 3102000,
+                        "nombre_cod": "Capital Pagado",
+                        "indicador": [
+                            {
+                                "cod": 3102001,
+                                "nombre_cod": "Capital Pagado"
+                            },
+                            {
+                                "cod": 3102002,
+                                "nombre_cod": "Aumento de Capital"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "ingresos": {
+        "cod": 4000000,
+        "nombre_cod": "Ingresos",
+        "sub_categoria": [
+            {
+                "cod": 4100000,
+                "nombre_cod": "Ingresos de Explotación",
+                "index_sub": [
+                    {
+                        "cod": 4101000,
+                        "nombre_cod": "Ingresos de Explotación",
+                        "indicador": [
+                            {
+                                "cod": 4101001,
+                                "nombre_cod": "Ventas del Giro"
+                            },
+                            {
+                                "cod": 4101002,
+                                "nombre_cod": "Ventas de Exportación"
+                            }
+                        ]
+                    },
+                    {
+                        "cod": 4102000,
+                        "nombre_cod": "Ingresos por Servicios",
+                        "indicador": [
+                            {
+                                "cod": 4102001,
+                                "nombre_cod": "Ingresos por Infraestructura"
+                            },
+                            {
+                                "cod": 4102002,
+                                "nombre_cod": "Ingresos por Desarrollo"
+                            },
+                            {
+                                "cod": 4102003,
+                                "nombre_cod": "Ingresos por Consultoria"
+                            },
+                            {
+                                "cod": 4102004,
+                                "nombre_cod": "Ingresos por Capacitación"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "cod": 4300000,
+                "nombre_cod": "Ingresos Fuera de la Explotación",
+                "index_sub": [
+                    {
+                        "cod": 4305000,
+                        "nombre_cod": "Otros Ingresos",
+                        "indicador": [
+                            {
+                                "cod": 4305999,
+                                "nombre_cod": "Otros Ingresos"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "egresos": {
+        "cod": 5000000,
+        "nombre_cod": "Egresos",
+        "sub_categoria": [
+            {
+                "cod": 5100000,
+                "nombre_cod": "Costos de Explotación",
+                "index_sub": [
+                    {
+                        "cod": 5101000,
+                        "nombre_cod": "Costo de Ventas",
+                        "indicador": [
+                            {
+                                "cod": 5101001,
+                                "nombre_cod": "Costo de Ventas"
+                            }
+                        ]
+                    },
+                    {
+                        "cod": 5102000,
+                        "nombre_cod": "Costo Prestación de Servicios",
+                        "indicador": [
+                            {
+                                "cod": 5102001,
+                                "nombre_cod": "Costo por Infraestructura"
+                            },
+                            {
+                                "cod": 5102002,
+                                "nombre_cod": "Costo por Desarrollo"
+                            },
+                            {
+                                "cod": 5102003,
+                                "nombre_cod": "Costo por Consultoria"
+                            },
+                            {
+                                "cod": 5102004,
+                                "nombre_cod": "Costo por Capacitación"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "cod": 5200000,
+                "nombre_cod": "Remuneraciones y Aportes",
+                "index_sub": [
+                    {
+                        "cod": 5201000,
+                        "nombre_cod": "Remuneraciones",
+                        "indicador": [
+                            {
+                                "cod": 5201001,
+                                "nombre_cod": "Remuneraciones"
+                            },
+                            {
+                                "cod": 5201002,
+                                "nombre_cod": "Ticket Alimentación"
+                            },
+                            {
+                                "cod": 5201003,
+                                "nombre_cod": "Bonificaciones"
+                            },
+                            {
+                                "cod": 5201004,
+                                "nombre_cod": "Gratificaciones"
+                            },
+                            {
+                                "cod": 5201005,
+                                "nombre_cod": "Comisiones"
+                            },
+                            {
+                                "cod": 5201006,
+                                "nombre_cod": "Colación"
+                            },
+                            {
+                                "cod": 5201007,
+                                "nombre_cod": "Movilización"
+                            },
+                            {
+                                "cod": 5201010,
+                                "nombre_cod": "Horas Extras"
+                            },
+                            {
+                                "cod": 5201999,
+                                "nombre_cod": "Otras Remuneraciones"
+                            }
+                        ]
+                    },
+                    {
+                        "cod": 5202000,
+                        "nombre_cod": "Aportes",
+                        "indicador": [
+                            {
+                                "cod": 5202001,
+                                "nombre_cod": "Aportes SIS"
+                            },
+                            {
+                                "cod": 5202002,
+                                "nombre_cod": "Aportes Seguro de Accidentes"
+                            },
+                            {
+                                "cod": 5202003,
+                                "nombre_cod": "Aportes Cesantia"
+                            },
+                            {
+                                "cod": 5202004,
+                                "nombre_cod": "Aportes Seguro Complementario"
+                            },
+                            {
+                                "cod": 5202099,
+                                "nombre_cod": "Otros Aportes Patronales"
+                            }
+                        ]
+                    },
+                    {
+                        "cod": 5203000,
+                        "nombre_cod": "Indemnizaciones al Personal",
+                        "indicador": [
+                            {
+                                "cod": 5203002,
+                                "nombre_cod": "Indemnizaciones Años de Servicio"
+                            }
+                        ]
+                    },
+                    {
+                        "cod": 5204000,
+                        "nombre_cod": "Otros Gastos de Personales",
+                        "indicador": [
+                            {
+                                "cod": 5204001,
+                                "nombre_cod": "Capacitación"
+                            },
+                            {
+                                "cod": 5204005,
+                                "nombre_cod": "Refrigerios"
+                            },
+                            {
+                                "cod": 5204006,
+                                "nombre_cod": "Eventos y Recreación"
+                            },
+                            {
+                                "cod": 5204007,
+                                "nombre_cod": "Reconocimientos al Personal"
+                            }
+                        ]
+                    },
+                    {
+                        "cod": 5205000,
+                        "nombre_cod": "Honorarios",
+                        "indicador": [
+                            {
+                                "cod": 5205002,
+                                "nombre_cod": "Honorarios Profesionales"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "cod": 5300000,
+                "nombre_cod": "Gastos de Administración y Ventas",
+                "index_sub": [
+                    {
+                        "cod": 5301000,
+                        "nombre_cod": "Consumo de Materiales",
+                        "indicador": [
+                            {
+                                "cod": 5301001,
+                                "nombre_cod": "Articulos de Escritorio"
+                            },
+                            {
+                                "cod": 5301002,
+                                "nombre_cod": "Insumos de Computación"
+                            }
+                        ]
+                    },
+                    {
+                        "cod": 5302000,
+                        "nombre_cod": "Gastos de Mantención",
+                        "indicador": [
+                            {
+                                "cod": 5302002,
+                                "nombre_cod": "Mantención de Instalaciones"
+                            },
+                            {
+                                "cod": 5302003,
+                                "nombre_cod": "Mantención de Maquinas y Equipos"
+                            }
+                        ]
+                    },
+                    {
+                        "cod": 5303000,
+                        "nombre_cod": "Gastos de Reparación",
+                        "indicador": [
+                            {
+                                "cod": 5303002,
+                                "nombre_cod": "Reparación de Instalaciones"
+                            }
+                        ]
+                    },
+                    {
+                        "cod": 5304000,
+                        "nombre_cod": "Arriendo de Inmuebles",
+                        "indicador": [
+                            {
+                                "cod": 5304001,
+                                "nombre_cod": "Arriendo de Inmueble del Giro"
+                            },
+                            {
+                                "cod": 5304005,
+                                "nombre_cod": "Gastos Comunes"
+                            },
+                            {
+                                "cod": 5304006,
+                                "nombre_cod": "Arriendo de Bodega"
+                            }
+                        ]
+                    },
+                    {
+                        "cod": 5306000,
+                        "nombre_cod": "Seguros",
+                        "indicador": [
+                            {
+                                "cod": 5306002,
+                                "nombre_cod": "Seguro Bienes Raices"
+                            },
+                            {
+                                "cod": 5306003,
+                                "nombre_cod": "Seguro Instalaciones"
+                            },
+                            {
+                                "cod": 5306004,
+                                "nombre_cod": "Seguro Maquinaria y Equipo"
+                            },
+                            {
+                                "cod": 5306005,
+                                "nombre_cod": "Seguro Vehiculos"
+                            }
+                        ]
+                    },
+                    {
+                        "cod": 5307000,
+                        "nombre_cod": "Publicidad",
+                        "indicador": [
+                            {
+                                "cod": 5307001,
+                                "nombre_cod": "Publicidad y Promoción"
+                            }
+                        ]
+                    },
+                    {
+                        "cod": 5308000,
+                        "nombre_cod": "Legales y Tributarios",
+                        "indicador": [
+                            {
+                                "cod": 5308001,
+                                "nombre_cod": "Gastos Notariales"
+                            },
+                            {
+                                "cod": 5308005,
+                                "nombre_cod": "Gastos Legales"
+                            }
+                        ]
+                    },
+                    {
+                        "cod": 5309000,
+                        "nombre_cod": "Gastos de Servicios Generales",
+                        "indicador": [
+                            {
+                                "cod": 5309002,
+                                "nombre_cod": "Gastos de Transporte"
+                            },
+                            {
+                                "cod": 5309007,
+                                "nombre_cod": "Gastos de Internet"
+                            },
+                            {
+                                "cod": 5309008,
+                                "nombre_cod": "Telefonia Celular"
+                            },
+                            {
+                                "cod": 5309009,
+                                "nombre_cod": "Telefonos"
+                            },
+                            {
+                                "cod": 5309011,
+                                "nombre_cod": "Agua"
+                            },
+                            {
+                                "cod": 5309012,
+                                "nombre_cod": "Electricidad"
+                            },
+                            {
+                                "cod": 5309016,
+                                "nombre_cod": "Suscripciones y Membresias"
+                            },
+                            {
+                                "cod": 5309017,
+                                "nombre_cod": "Arriendo / Compra de Sistemas"
+                            },
+                            {
+                                "cod": 5309019,
+                                "nombre_cod": "Auditorias y Certificaciones"
+                            },
+                            {
+                                "cod": 5309999,
+                                "nombre_cod": "Otros Gastos de Servicios Generales"
+                            }
+                        ]
+                    },
+                    {
+                        "cod": 5310000,
+                        "nombre_cod": "Gastos Generales",
+                        "indicador": [
+                            {
+                                "cod": 5310002,
+                                "nombre_cod": "Insumo de Oficina"
+                            },
+                            {
+                                "cod": 5310003,
+                                "nombre_cod": "Mantencio de Aire Acondicionado"
+                            },
+                            {
+                                "cod": 5310010,
+                                "nombre_cod": "Viaticos"
+                            },
+                            {
+                                "cod": 5310011,
+                                "nombre_cod": "Gastos de Traslado"
+                            },
+                            {
+                                "cod": 5310999,
+                                "nombre_cod": "Gastos Generales"
+                            }
+                        ]
+                    },
+                    {
+                        "cod": 5314000,
+                        "nombre_cod": "Impuestos y Contribuciones",
+                        "indicador": [
+                            {
+                                "cod": 5314002,
+                                "nombre_cod": "Contribuciones"
+                            },
+                            {
+                                "cod": 5314003,
+                                "nombre_cod": "Patentes"
+                            },
+                            {
+                                "cod": 5315000,
+                                "nombre_cod": "Licencias"
+                            },
+                            {
+                                "cod": 5315001,
+                                "nombre_cod": "Licencias de Software"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "cod": 5400000,
+                "nombre_cod": "Gastos Fuera de la Explotación",
+                "index_sub": [
+                    {
+                        "cod": 5403000,
+                        "nombre_cod": "Gastos Financieros",
+                        "indicador": [
+                            {
+                                "cod": 5403001,
+                                "nombre_cod": "Intereses Financiero"
+                            },
+                            {
+                                "cod": 5403002,
+                                "nombre_cod": "Impuestos Financieros"
+                            },
+                            {
+                                "cod": 5403003,
+                                "nombre_cod": "Comisiones Financieras"
+                            }
+                        ]
+                    },
+                    {
+                        "cod": 5404000,
+                        "nombre_cod": "Otros Egresos Fuera de Explotación",
+                        "indicador": [
+                            {
+                                "cod": 5404002,
+                                "nombre_cod": "Donaciones"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "cod": 5700000,
+                "nombre_cod": "Impuestos",
+                "index_sub": [
+                    {
+                        "cod": 5700001,
+                        "nombre_cod": "Impuestos",
+                        "indicador": [
+                            {
+                                "cod": 5403001,
+                                "nombre_cod": "Impuesto a la Renta"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}
