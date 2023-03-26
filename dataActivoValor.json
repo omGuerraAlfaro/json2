@@ -3,36 +3,43 @@
         "cod": 1000000,
         "nombre_cod": "Activo",
         "valor": 0,
+        "activo": false,
         "sub_categoria": [
             {
                 "cod": 1100000,
                 "nombre_cod": "Activo Circulante",
                 "valor": 0,
+                "activo": false,
                 "index_sub": [
                     {
                         "cod": 1101000,
                         "nombre_cod": "Caja y Fondo Fijo",
                         "valor": 0,
+                        "activo": false,
                         "indicador": [
                             {
                                 "cod": 1101001,
                                 "nombre_cod": "Caja",
-                                "valor": 0
+                                "valor": 0,
+                                "activo": false
                             },
                             {
                                 "cod": 1101002,
                                 "nombre_cod": "Fondo Fijo",
-                                "valor": 0
+                                "valor": 0,
+                                "activo": false
                             },
                             {
                                 "cod": 1101003,
                                 "nombre_cod": "Fondo a Rendir",
-                                "valor": 12465746
+                                "valor": 12465746,
+                                "activo": false
                             },
                             {
                                 "cod": 1101004,
                                 "nombre_cod": "Divisas",
-                                "valor": 0
+                                "valor": 0,
+                                "activo": false
                             }
                         ]
                     },
@@ -40,21 +47,25 @@
                         "cod": 1102000,
                         "nombre_cod": "Cuenta Corriente",
                         "valor": 0,
+                        "activo": false,
                         "indicador": [
                             {
                                 "cod": 1102002,
                                 "nombre_cod": "Banco Santander",
-                                "valor": 0
+                                "valor": 0,
+                                "activo": false
                             },
                             {
                                 "cod": 1102003,
                                 "nombre_cod": "Banco Bci",
-                                "valor": 12312314
+                                "valor": 12312314,
+                                "activo": false
                             },
                             {
                                 "cod": 1102004,
                                 "nombre_cod": "Banco Scotiabank",
-                                "valor": 0
+                                "valor": 0,
+                                "activo": false
                             }
                         ]
                     },
@@ -62,11 +73,13 @@
                         "cod": 1103000,
                         "nombre_cod": "Cuenta Corriente USD",
                         "valor": 0,
+                        "activo": false,
                         "indicador": [
                             {
                                 "cod": 1103003,
                                 "nombre_cod": "Banco Bci USD",
-                                "valor": 0
+                                "valor": 0,
+                                "activo": false
                             }
                         ]
                     },
@@ -74,36 +87,43 @@
                         "cod": 1107000,
                         "nombre_cod": "Deudores por Venta(Neto)",
                         "valor": 0,
+                        "activo": false,
                         "indicador": [
                             {
                                 "cod": 1107001,
                                 "nombre_cod": "Facturas por Cobrar",
-                                "valor": 123450
+                                "valor": 123450,
+                                "activo": false
                             },
                             {
                                 "cod": 1107002,
                                 "nombre_cod": "Boletas por Cobrar",
-                                "valor": 1231240
+                                "valor": 1231240,
+                                "activo": false
                             },
                             {
                                 "cod": 1107003,
                                 "nombre_cod": "Cuentas por Cobrar",
-                                "valor": 4324230
+                                "valor": 4324230,
+                                "activo": false
                             },
                             {
                                 "cod": 1107004,
                                 "nombre_cod": "Tarjeta de Credito por Cobrar",
-                                "valor": 32455230
+                                "valor": 32455230,
+                                "activo": false
                             },
                             {
                                 "cod": 1107005,
                                 "nombre_cod": "Cartera Vencida de Clientes",
-                                "valor": 1231230
+                                "valor": 1231230,
+                                "activo": false
                             },
                             {
                                 "cod": 1107006,
                                 "nombre_cod": "Facturas de Exportación por Cobrar",
-                                "valor": 42131230
+                                "valor": 42131230,
+                                "activo": false
                             }
                         ]
                     },
@@ -111,11 +131,13 @@
                         "cod": 1108000,
                         "nombre_cod": "Documentos por Cobrar",
                         "valor": 0,
+                        "activo": false,
                         "indicador": [
                             {
                                 "cod": 1108005,
                                 "nombre_cod": "Documentos en Cobranza",
-                                "valor": 0
+                                "valor": 0,
+                                "activo": false
                             }
                         ]
                     },
@@ -123,21 +145,25 @@
                         "cod": 1109000,
                         "nombre_cod": "Deudores Varios",
                         "valor": 0,
+                        "activo": false,
                         "indicador": [
                             {
                                 "cod": 1109002,
                                 "nombre_cod": "Factoring por Liquidar",
-                                "valor": 0
+                                "valor": 0,
+                                "activo": false
                             },
                             {
                                 "cod": 1109003,
                                 "nombre_cod": "Anticipo de Proveedores",
-                                "valor": 0
+                                "valor": 0,
+                                "activo": false
                             },
                             {
                                 "cod": 1109004,
                                 "nombre_cod": "Anticipo de Honorarios",
-                                "valor": 0
+                                "valor": 0,
+                                "activo": false
                             }
                         ]
                     },
@@ -145,21 +171,25 @@
                         "cod": 1112000,
                         "nombre_cod": "Impuestos por Recuperar",
                         "valor": 0,
+                        "activo": false,
                         "indicador": [
                             {
                                 "cod": 1112001,
                                 "nombre_cod": "Iva Crédito Fiscal NO Afecta",
-                                "valor": 0
+                                "valor": 0,
+                                "activo": false
                             },
                             {
                                 "cod": 1112012,
                                 "nombre_cod": "Impuesto A La Renta Por Recuperar",
-                                "valor": 0
+                                "valor": 0,
+                                "activo": false
                             },
                             {
                                 "cod": 1112999,
                                 "nombre_cod": "Otros Impuestos Por Recuperar",
-                                "valor": 0
+                                "valor": 0,
+                                "activo": false
                             }
                         ]
                     },
@@ -167,26 +197,31 @@
                         "cod": 1113000,
                         "nombre_cod": "Gastos Pagados por Anticipado",
                         "valor": 0,
+                        "activo": false,
                         "indicador": [
                             {
                                 "cod": 1113001,
                                 "nombre_cod": "Arriendos Anticipados",
-                                "valor": 0
+                                "valor": 0,
+                                "activo": false
                             },
                             {
                                 "cod": 1113002,
                                 "nombre_cod": "Seguros Anticipados",
-                                "valor": 0
+                                "valor": 0,
+                                "activo": false
                             },
                             {
                                 "cod": 1113003,
                                 "nombre_cod": "Servicios Anticipados",
-                                "valor": 0
+                                "valor": 0,
+                                "activo": false
                             },
                             {
                                 "cod": 1113999,
                                 "nombre_cod": "Otros Gastos Anticipados",
-                                "valor": 0
+                                "valor": 0,
+                                "activo": false
                             }
                         ]
                     }
