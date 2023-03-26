@@ -12,7 +12,7 @@
                     {
                         "cod": 1101000,
                         "nombre_cod": "Caja y Fondo Fijo",
-                        "valor": 0,
+                        "valor": 10,
                         "indicador": [
                             {
                                 "cod": 1101001,
