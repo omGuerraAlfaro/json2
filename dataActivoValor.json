@@ -2,37 +2,37 @@
     "categoria": {
         "cod": 1000000,
         "nombre_cod": "Activo",
-        "valor": "0",
+        "valor": 0,
         "sub_categoria": [
             {
                 "cod": 1100000,
                 "nombre_cod": "Activo Circulante",
-                "valor": "0",
+                "valor": 0,
                 "index_sub": [
                     {
                         "cod": 1101000,
                         "nombre_cod": "Caja y Fondo Fijo",
-                        "valor": "0",
+                        "valor": 0,
                         "indicador": [
                             {
                                 "cod": 1101001,
                                 "nombre_cod": "Caja",
-                                "valor": "0"
+                                "valor": 0
                             },
                             {
                                 "cod": 1101002,
                                 "nombre_cod": "Fondo Fijo",
-                                "valor": "0"
+                                "valor": 0
                             },
                             {
                                 "cod": 1101003,
                                 "nombre_cod": "Fondo a Rendir",
-                                "valor": "0"
+                                "valor": 0
                             },
                             {
                                 "cod": 1101004,
                                 "nombre_cod": "Divisas",
-                                "valor": "0"
+                                "valor": 0
                             }
                         ]
                     },
