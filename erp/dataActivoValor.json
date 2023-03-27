@@ -224,6 +224,152 @@
                                 "selected": false
                             }
                         ]
+                    },
+                    {
+                        "cod": 1116000,
+                        "nombre_cod": "Garantías y Responsabilidades",
+                        "valor": 0,
+                        "selected": false,
+                        "indicador": [
+                            {
+                                "cod": 1116001,
+                                "nombre_cod": "Boleta de Garantía Enteradas",
+                                "valor": 0,
+                                "selected": false
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "cod": 1200000,
+                "nombre_cod": "Activos Fijos",
+                "valor": 0,
+                "selected": false,
+                "index_sub": [
+                    {
+                        "cod": 1201000,
+                        "nombre_cod": "Bienes Raíces",
+                        "valor": 0,
+                        "selected": false,
+                        "indicador": [
+                            {
+                                "cod": 1201001,
+                                "nombre_cod": "Bienes Raíces",
+                                "valor": 0,
+                                "selected": false
+                            }
+                        ]
+                    },
+                    {
+                        "cod": 1203000,
+                        "nombre_cod": "Maquinaria y Equipos",
+                        "valor": 0,
+                        "selected": false,
+                        "indicador": [
+                            {
+                                "cod": 1203001,
+                                "nombre_cod": "Maquinaria y Equipos",
+                                "valor": 0,
+                                "selected": false
+                            }
+                        ]
+                    },
+                    {
+                        "cod": 1204000,
+                        "nombre_cod": "Computación Telefoía Electrónicos",
+                        "valor": 0,
+                        "selected": false,
+                        "indicador": [
+                            {
+                                "cod": 1204001,
+                                "nombre_cod": "Muebles y Útiles",
+                                "valor": 0,
+                                "selected": false
+                            },
+                            {
+                                "cod": 1204002,
+                                "nombre_cod": "Enseres",
+                                "valor": 0,
+                                "selected": false
+                            }
+                        ]
+                    },
+                    {
+                        "cod": 1205000,
+                        "nombre_cod": "Computación Telefonía Electrónicos",
+                        "valor": 0,
+                        "selected": false,
+                        "indicador": [
+                            {
+                                "cod": 1205001,
+                                "nombre_cod": "Computadores",
+                                "valor": 0,
+                                "selected": false
+                            },
+                            {
+                                "cod": 1205002,
+                                "nombre_cod": "Equipo de Telefonía",
+                                "valor": 0,
+                                "selected": false
+                            },
+                            {
+                                "cod": 1205003,
+                                "nombre_cod": "Equipo Audivisuales",
+                                "valor": 0,
+                                "selected": false
+                            }
+                        ]
+                    },
+                    {
+                        "cod": 1206000,
+                        "nombre_cod": "Vehiculos",
+                        "valor": 0,
+                        "selected": false,
+                        "indicador": [
+                            {
+                                "cod": 1206001,
+                                "nombre_cod": "Vehiculos",
+                                "valor": 0,
+                                "selected": false
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "cod": 1300000,
+                "nombre_cod": "Otros Activos",
+                "valor": 0,
+                "selected": false,
+                "index_sub": [
+                    {
+                        "cod": 1301000,
+                        "nombre_cod": "Inversiones en Empresas Relacionadas",
+                        "valor": 0,
+                        "selected": false,
+                        "indicador": [
+                            {
+                                "cod": 1301001,
+                                "nombre_cod": "Inversiones en Empresas Relacionadas",
+                                "valor": 0,
+                                "selected": false
+                            }
+                        ]
+                    },
+                    {
+                        "cod": 1308000,
+                        "nombre_cod": "Intangibles",
+                        "valor": 0,
+                        "selected": false,
+                        "indicador": [
+                            {
+                                "cod": 1308001,
+                                "nombre_cod": "Intangibles",
+                                "valor": 0,
+                                "selected": false
+                            }
+                        ]
                     }
                 ]
             }
