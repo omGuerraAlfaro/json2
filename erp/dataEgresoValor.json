@@ -580,7 +580,7 @@
                         "selected": false,
                         "indicador": [
                             {
-                                "cod": 5403001,
+                                "cod": 5700001,
                                 "nombre_cod": "Impuesto a la Renta",
                                 "valor": 0,
                                 "selected": false
