@@ -34,7 +34,7 @@
                     {
                         "cod": 4102000,
                         "nombre_cod": "Ingresos por Servicios",
-                        "valor": 2000000,
+                        "valor": 200000,
                         "selected": false,
                         "indicador": [
                             {
