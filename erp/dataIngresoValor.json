@@ -2,13 +2,13 @@
     "categoria": {
         "cod": 4000000,
         "nombre_cod": "Ingresos",
-        "valor": 4000000,
+        "valor": 10400000,
         "selected": false,
         "sub_categoria": [
             {
                 "cod": 4100000,
                 "nombre_cod": "Ingresos de Explotación",
-                "valor": 1400000,
+                "valor": 14000000,
                 "selected": false,
                 "index_sub": [
                     {
