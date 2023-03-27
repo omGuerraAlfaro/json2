@@ -1,0 +1,164 @@
+{
+    "categoria": {
+        "cod": 2000000,
+        "nombre_cod": "Pasivo",
+        "valor": 0,
+        "selected": false,
+        "sub_categoria": [
+            {
+                "cod": 2100000,
+                "nombre_cod": "Pasivos Circulantes",
+                "valor": 0,
+                "selected": false,
+                "index_sub": [
+                    {
+                        "cod": 2101000,
+                        "nombre_cod": "Linea de Credito con Banco",
+                        "valor": 0,
+                        "selected": false,
+                        "indicador": [
+                            {
+                                "cod": 2101002,
+                                "nombre_cod": "LC Banco Santander Pasivo Exigible",
+                                "valor": 0,
+                                "selected": false
+                            },
+                            {
+                                "cod": 2101003,
+                                "nombre_cod": "LC Banco Bci Pasivo Exigible",
+                                "valor": 0,
+                                "selected": false
+                            }
+                        ]
+                    },
+                    {
+                        "cod": 2102000,
+                        "nombre_cod": "Prestamos con Bancos",
+                        "valor": 0,
+                        "selected": false,
+                        "indicador": [
+                            {
+                                "cod": 2102001,
+                                "nombre_cod": "Prestamo con Banco Bci Pasivo Exigible",
+                                "valor": 0,
+                                "selected": false
+                            }
+                        ]
+                    },
+                    {
+                        "cod": 2104000,
+                        "nombre_cod": "Tarjeta de Credito con Bancos",
+                        "valor": 0,
+                        "selected": false,
+                        "indicador": [
+                            {
+                                "cod": 2104001,
+                                "nombre_cod": "Tarjeta de Credito Banco 1",
+                                "valor": 0,
+                                "selected": false
+                            },
+                            {
+                                "cod": 2104002,
+                                "nombre_cod": "Tarjeta de Credito Banco 2",
+                                "valor": 0,
+                                "selected": false
+                            }
+                        ]
+                    },
+                    {
+                        "cod": 2110000,
+                        "nombre_cod": "Cuentas por Pagar",
+                        "valor": 0,
+                        "selected": false,
+                        "indicador": [
+                            {
+                                "cod": 2110001,
+                                "nombre_cod": "Proveedores Nacionales Pasivo Exigible",
+                                "valor": 0,
+                                "selected": false
+                            },
+                            {
+                                "cod": 2110002,
+                                "nombre_cod": "Proveedores Extranjeros Pasivo Exigible",
+                                "valor": 0,
+                                "selected": false
+                            },
+                            {
+                                "cod": 2110003,
+                                "nombre_cod": "Cuentas por Pagar Pasivo Exigible",
+                                "valor": 0,
+                                "selected": false
+                            },
+                            {
+                                "cod": 2110999,
+                                "nombre_cod": "Otras Cuentas Por Pagar Pasivo Exigible",
+                                "valor": 0,
+                                "selected": false
+                            },
+                            {
+                                "cod": 2111000,
+                                "nombre_cod": "Documentos Por Pagar",
+                                "valor": 0,
+                                "selected": false
+                            }
+                        ]
+                    },
+                    {
+                        "cod": 2116000,
+                        "nombre_cod": "Impuestos por Pagar",
+                        "valor": 0,
+                        "selected": false,
+                        "indicador": [
+                            {
+                                "cod": 2116001,
+                                "nombre_cod": "Iva Debito Fiscal Pasivo Exigible",
+                                "valor": 0,
+                                "selected": false
+                            },
+                            {
+                                "cod": 2116002,
+                                "nombre_cod": "Impuesto Ley de Alcoholes Pasivo Exigible",
+                                "valor": 0,
+                                "selected": false
+                            },
+                            {
+                                "cod": 2116003,
+                                "nombre_cod": "Iva Retenido a Terceros Pasivo Exigible",
+                                "valor": 0,
+                                "selected": false
+                            }
+                        ]
+                    },
+                    {
+                        "cod": 2117000,
+                        "nombre_cod": "Impuesto a la Renta",
+                        "valor": 0,
+                        "selected": false,
+                        "indicador": [
+                            {
+                                "cod": 2117001,
+                                "nombre_cod": "Impuesto a la Renta Pasivo Exigible",
+                                "valor": 0,
+                                "selected": false
+                            }
+                        ]
+                    },
+                    {
+                        "cod": 2200000,
+                        "nombre_cod": "Pasivos a Largo Plazo",
+                        "valor": 0,
+                        "selected": false,
+                        "indicador": [
+                            {
+                                "cod": 2201000,
+                                "nombre_cod": "Obligaciones con Bancos a Largo Plazo",
+                                "valor": 0,
+                                "selected": false
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,7 +1,7 @@
 {
     "categoria": {
         "cod": 1000000,
-        "nombre_cod": "Activo",
+        "nombre_cod": "activo",
         "sub_categoria": [
             {
                 "cod": 1100000,

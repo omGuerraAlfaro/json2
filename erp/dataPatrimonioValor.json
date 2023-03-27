@@ -1,0 +1,52 @@
+{
+    "categoria": {
+        "cod": 3000000,
+        "nombre_cod": "Patrimonio",
+        "valor": 0,
+        "selected": false,
+        "sub_categoria": [
+            {
+                "cod": 3100000,
+                "nombre_cod": "Capital",
+                "valor": 0,
+                "selected": false,
+                "index_sub": [
+                    {
+                        "cod": 3101000,
+                        "nombre_cod": "Capital Autorizado",
+                        "valor": 0,
+                        "selected": false,
+                        "indicador": [
+                            {
+                                "cod": 3101001,
+                                "nombre_cod": "Capital Autorizado",
+                                "valor": 0,
+                                "selected": false
+                            }
+                        ]
+                    },
+                    {
+                        "cod": 3102000,
+                        "nombre_cod": "Capital Pagado",
+                        "valor": 0,
+                        "selected": false,
+                        "indicador": [
+                            {
+                                "cod": 3102001,
+                                "nombre_cod": "Capital Pagado",
+                                "valor": 0,
+                                "selected": false
+                            },
+                            {
+                                "cod": 3102002,
+                                "nombre_cod": "Aumento de Capital",
+                                "valor": 0,
+                                "selected": false
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}
