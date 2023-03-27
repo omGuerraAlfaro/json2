@@ -2,31 +2,31 @@
     "categoria": {
         "cod": 4000000,
         "nombre_cod": "Ingresos",
-        "valor": 0,
+        "valor": 4000000,
         "selected": false,
         "sub_categoria": [
             {
                 "cod": 4100000,
                 "nombre_cod": "Ingresos de Explotación",
-                "valor": 0,
+                "valor": 1400000,
                 "selected": false,
                 "index_sub": [
                     {
                         "cod": 4101000,
                         "nombre_cod": "Ingresos de Explotación",
-                        "valor": 0,
+                        "valor": 200000,
                         "selected": false,
                         "indicador": [
                             {
                                 "cod": 4101001,
                                 "nombre_cod": "Ventas del Giro",
-                                "valor": 0,
+                                "valor": 100000,
                                 "selected": false
                             },
                             {
                                 "cod": 4101002,
                                 "nombre_cod": "Ventas de Exportación",
-                                "valor": 0,
+                                "valor": 100000,
                                 "selected": false
                             }
                         ]
@@ -34,31 +34,31 @@
                     {
                         "cod": 4102000,
                         "nombre_cod": "Ingresos por Servicios",
-                        "valor": 0,
+                        "valor": 2000000,
                         "selected": false,
                         "indicador": [
                             {
                                 "cod": 4102001,
                                 "nombre_cod": "Ingresos por Infraestructura",
-                                "valor": 0,
+                                "valor": 50000,
                                 "selected": false
                             },
                             {
                                 "cod": 4102002,
                                 "nombre_cod": "Ingresos por Desarrollo",
-                                "valor": 0,
+                                "valor": 50000,
                                 "selected": false
                             },
                             {
                                 "cod": 4102003,
                                 "nombre_cod": "Ingresos por Consultoria",
-                                "valor": 0,
+                                "valor": 50000,
                                 "selected": false
                             },
                             {
                                 "cod": 4102004,
                                 "nombre_cod": "Ingresos por Capacitación",
-                                "valor": 0,
+                                "valor": 50000,
                                 "selected": false
                             }
                         ]
@@ -68,17 +68,19 @@
             {
                 "cod": 4300000,
                 "nombre_cod": "Ingresos Fuera de la Explotación",
-                "valor": 0,
+                "valor": 10000000,
                 "selected": false,
                 "index_sub": [
                     {
                         "cod": 4305000,
                         "nombre_cod": "Otros Ingresos",
+                        "valor": 10000000,
+                        "selected": false,
                         "indicador": [
                             {
                                 "cod": 4305999,
                                 "nombre_cod": "Otros Ingresos",
-                                "valor": 0,
+                                "valor": 10000000,
                                 "selected": false
                             }
                         ]
